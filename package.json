@@ -1,0 +1,27 @@
+{
+  "name": "flat-server",
+  "description": "-----------\r flat-server\r -----------",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/110594/flat-server.git"
+  },
+  "keywords": [],
+  "author": "0zl (ize)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/110594/flat-server/issues"
+  },
+  "homepage": "https://shiro.eu.org/project/flat",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "sharp": "^0.29.3"
+  }
+}
