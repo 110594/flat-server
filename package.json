@@ -16,6 +16,9 @@
   "bugs": {
     "url": "https://github.com/110594/flat-server/issues"
   },
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "homepage": "https://shiro.eu.org/project/flat",
   "dependencies": {
     "axios": "^0.24.0",
